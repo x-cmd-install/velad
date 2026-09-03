@@ -1,11 +1,13 @@
 about:
-  description: Lightweight KubeVela that runs as Daemon in single node with high availability.
+  description:
+  |
+    Lightweight KubeVela that runs as Daemon in single node with high availability.
   license: Apache-2.0
   homepage: 
   head: e1b92e0
   archived: false
   latestVersion: v1.9.5
-  collectedAt: 2026-09-03T05:12:52Z
+  collectedAt: 2026-09-03T22:37:43Z
 timeline:
   created: 2022-03-23
   lastCommit: 2026-08-26
@@ -23,7 +25,7 @@ language:
   Shell: 12074
   Makefile: 4129
   PowerShell: 3444
-totalLine: 107355
+totalBytes: 107355
 recent:
   last30d:
     since: 2026-08-04
