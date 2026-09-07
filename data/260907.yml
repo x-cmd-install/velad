@@ -5,7 +5,7 @@ about:
   head: e1b92e0
   archived: false
   latestVersion: "v1.9.5"
-  collectedAt: 2026-09-07T05:20:28Z
+  collectedAt: 2026-09-07T19:24:56Z
 timeline:
   created: 2022-03-23
   lastCommit: 2026-08-26
@@ -82,7 +82,7 @@ total:
   commit: 232
 ---
 path: /home/runner/.x-repo/github.com/kubevela/velad
-collectedAt: 2026-09-07T05:20:30Z
+collectedAt: 2026-09-07T19:24:58Z
 loc:
   Go:
     code: 2720
@@ -123,7 +123,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:20:31+00:00
+  collectedAt: 2026-09-07T19:24:58+00:00
   platform:
     darwin/arm64:
       name:  velad-v1.9.5-darwin-arm64.zip
