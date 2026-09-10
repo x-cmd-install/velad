@@ -4,7 +4,7 @@
 
 Lightweight KubeVela that runs as Daemon in single node with high availability.
 
-![velad](https://repo.x-cmd.io/velad.svg)
+![velad](https://repo.x-cmd.io/velad.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,21 @@ x install velad
 - **最新版本**: `v1.9.5` (2023-08-02)
 - **最近提交**: 2026-08-26
 - **Release 含资产**: 10 个
-- **发布时间**: 2023-08-02T12:05:24Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [velad-v1.9.5-darwin-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-amd64.tar.gz) | 448.7 MiB | `native/darwin/x64` |
+| [velad-v1.9.5-darwin-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-amd64.zip) | 448.7 MiB | `native/darwin/x64` |
+| [velad-v1.9.5-darwin-arm64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-arm64.tar.gz) | 417.4 MiB | `native/darwin/arm64` |
+| [velad-v1.9.5-darwin-arm64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-arm64.zip) | 417.4 MiB | `native/darwin/arm64` |
+| [velad-v1.9.5-linux-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-amd64.tar.gz) | 414.3 MiB | `native/linux/x64` |
+| [velad-v1.9.5-linux-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-amd64.zip) | 414.3 MiB | `native/linux/x64` |
+| [velad-v1.9.5-linux-arm64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-arm64.tar.gz) | 384.7 MiB | `native/linux/arm64` |
+| [velad-v1.9.5-linux-arm64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-arm64.zip) | 384.7 MiB | `native/linux/arm64` |
+| [velad-v1.9.5-windows-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.tar.gz) | 447.4 MiB | `native/win/x64` |
+| [velad-v1.9.5-windows-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.zip) | 447.4 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +75,4 @@ velad 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:26:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:07:21Z._

@@ -22,7 +22,21 @@ x install velad
 - **Latest**: `v1.9.5` (2023-08-02)
 - **Last commit**: 2026-08-26
 - **Assets in release**: 10
-- **Published**: 2023-08-02T12:05:24Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [velad-v1.9.5-darwin-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-amd64.tar.gz) | 448.7 MiB | `native/darwin/x64` |
+| [velad-v1.9.5-darwin-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-amd64.zip) | 448.7 MiB | `native/darwin/x64` |
+| [velad-v1.9.5-darwin-arm64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-arm64.tar.gz) | 417.4 MiB | `native/darwin/arm64` |
+| [velad-v1.9.5-darwin-arm64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-darwin-arm64.zip) | 417.4 MiB | `native/darwin/arm64` |
+| [velad-v1.9.5-linux-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-amd64.tar.gz) | 414.3 MiB | `native/linux/x64` |
+| [velad-v1.9.5-linux-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-amd64.zip) | 414.3 MiB | `native/linux/x64` |
+| [velad-v1.9.5-linux-arm64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-arm64.tar.gz) | 384.7 MiB | `native/linux/arm64` |
+| [velad-v1.9.5-linux-arm64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-linux-arm64.zip) | 384.7 MiB | `native/linux/arm64` |
+| [velad-v1.9.5-windows-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.tar.gz) | 447.4 MiB | `native/win/x64` |
+| [velad-v1.9.5-windows-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.zip) | 447.4 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +71,8 @@ Total: **3,281** lines of code across **40** files in the top 5 languages.
 Install metadata for velad lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `velad` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/velad.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/velad.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:26:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:21Z._
