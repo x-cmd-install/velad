@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.9.5"
   latestRelease: "v1.9.5"
   latestPrerelease: "v1.9.4-beta.1"
-  collectedAt: 2026-09-11T00:05:35Z
+  collectedAt: 2026-09-11T05:17:58Z
 timeline:
   created: 2022-03-23
   lastCommit: 2026-08-26
@@ -86,7 +86,7 @@ total:
   commit: 232
 ---
 path: /home/runner/.x-repo/github.com/kubevela/velad
-collectedAt: 2026-09-11T00:05:37Z
+collectedAt: 2026-09-11T05:17:59Z
 loc:
   Go:
     code: 2720
