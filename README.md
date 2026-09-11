@@ -12,6 +12,18 @@ Lightweight KubeVela that runs as Daemon in single node with high availability.
 x install velad
 ```
 
+## Code insight
+
+Total: **3,281** lines of code across **40** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,720 | 234 | 336 | 28 |
+| Sh | 357 | 33 | 94 | 8 |
+| Makefile | 123 | 1 | 27 | 2 |
+| PowerShell | 80 | 7 | 11 | 1 |
+| Bitbake | 1 | 5 | 2 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/kubevela/velad>
@@ -22,6 +34,25 @@ x install velad
 - **Latest**: `v1.9.5` (2023-08-02)
 - **Last commit**: 2026-08-26
 - **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 74 · **Forks**: 17 · **Open issues**: 43 · **Contributors**: 36
+
+## Totals (cumulative)
+
+- **Releases**: 54 · **Merged PRs**: 104 · **Open PRs**: 5 · **Closed issues**: 20 · **Open issues**: 23 · **Commits**: 232
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-13 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-13 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-15 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 360d | 2025-09-16 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last720d | 2024-09-21 | 0 | 4 | 1 | 1 | 1 | 4 |
 
 ## Release assets
 
@@ -38,34 +69,6 @@ x install velad
 | [velad-v1.9.5-windows-amd64.tar.gz](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.tar.gz) | 447.4 MiB | `native/win/x64` |
 | [velad-v1.9.5-windows-amd64.zip](https://github.com/kubevela/velad/releases/download/v1.9.5/velad-v1.9.5-windows-amd64.zip) | 447.4 MiB | `native/win/x64` |
 
-## Popularity
-
-- **Stars**: 74 · **Forks**: 17 · **Open issues**: 43 · **Contributors**: 36
-
-## Totals (cumulative)
-
-- **Releases**: 54 · **Merged PRs**: 104 · **Open PRs**: 5 · **Closed issues**: 20 · **Open issues**: 23 · **Commits**: 232
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-12 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 360d | 2025-09-15 | 0 | 3 | 0 | 0 | 0 | 3 |
-
-## Code size
-
-Total: **3,281** lines of code across **40** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,720 | 234 | 336 | 28 |
-| Sh | 357 | 33 | 94 | 8 |
-| Makefile | 123 | 1 | 27 | 2 |
-| PowerShell | 80 | 7 | 11 | 1 |
-| Bitbake | 1 | 5 | 2 | 1 |
-
 ## Improve this data
 
 Install metadata for velad lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `velad` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +78,4 @@ Install metadata for velad lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:08Z._
