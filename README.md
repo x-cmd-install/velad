@@ -32,27 +32,27 @@ Total: **3,281** lines of code across **40** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.5` (2023-08-02)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-11-27
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 74 · **Forks**: 19 · **Open issues**: 44 · **Contributors**: 39
+- **Stars**: 74 · **Forks**: 19 · **Open issues**: 46 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 105 · **Open PRs**: 8 · **Closed issues**: 20 · **Open issues**: 24 · **Commits**: 233
+- **Releases**: 54 · **Merged PRs**: 108 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 26 · **Commits**: 234
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 1 | 4 | 0 | 1 | 1 |
-| 90d | 2026-08-29 | 0 | 1 | 4 | 0 | 1 | 1 |
-| last180d | 2026-05-31 | 0 | 4 | 4 | 0 | 1 | 4 |
-| 360d | 2025-12-02 | 0 | 4 | 4 | 0 | 1 | 4 |
-| last720d | 2024-12-07 | 0 | 5 | 4 | 1 | 2 | 5 |
+| 30d | 2026-10-29 | 0 | 0 | 1 | 0 | 3 | 1 |
+| last60d | 2026-09-29 | 0 | 4 | 1 | 0 | 3 | 2 |
+| 90d | 2026-08-30 | 0 | 4 | 1 | 0 | 3 | 2 |
+| last180d | 2026-06-01 | 0 | 7 | 1 | 0 | 3 | 5 |
+| 360d | 2025-12-03 | 0 | 7 | 1 | 0 | 3 | 5 |
+| last720d | 2024-12-08 | 0 | 8 | 1 | 1 | 4 | 6 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for velad lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:59:01Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:41:14Z._
